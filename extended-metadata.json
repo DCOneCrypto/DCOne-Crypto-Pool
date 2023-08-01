@@ -1,0 +1,40 @@
+{
+    "verification":"ed1bc36aaf73b973e4",
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/DCOneCrypto/DCOne-Crypto-Pool/main/image/dconecrypto-64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/DCOneCrypto/DCOne-Crypto-Pool/main/image/dconecrypto-500x500.png",
+        "location": "Dublin, Ireland",
+        "social": {
+            "twitter_handle": "DCOneCrypto",
+            "telegram_handle": "dconeservice",
+            "facebook_handle": "",
+            "youtube_handle": "dconecrypto",
+            "twitch_handle": "",
+            "discord_handle": "dconecrypto",
+            "github_handle": "DCOneCrypto",
+            "patreon_handle": "",
+            "linkedin_handle": "",
+            "ada_handle": "$dconecrypto"
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Cardano Stakepool - DCONE",
+            "server": "",
+            "company": ""
+        },
+        "telegram-admin-handle": {
+            "0": "dconeservice"
+        },
+        "my-pool-ids": {
+        "0": "pool1xvaagsvl9prlr20hvg2qv434yss5c88r2ml6n43wcpepxmw85lj",
+        "1": "333bd4419f2847f1a9f7621406563524214c1ce356ffa9d62ec07213"
+        }
+    }
+}
