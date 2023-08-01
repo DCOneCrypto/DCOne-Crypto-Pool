@@ -1,7 +1,7 @@
 {
   "name": "DCOne Crypto Pool",
   "ticker": "DCONE",
-  "description": "Cardano Stakepool - DCONE",
+  "description": "DCOne Crypto - Cardano ecosystem interface map showing all projects and dapps on the Cardano blockchain (ADA).",
   "homepage": "https://dconecrypto.finance/",
   "extended": "https://raw.githubusercontent.com/DCOneCrypto/DCOne-Crypto-Pool/main/extended-metadata.json"
 }
