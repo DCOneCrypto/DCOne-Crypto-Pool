@@ -3,5 +3,5 @@
   "ticker": "DCONE",
   "description": "Cardano Stakepool - DCONE",
   "homepage": "https://dconecrypto.finance/",
-  "extended": ""
+  "extended": "https://raw.githubusercontent.com/DCOneCrypto/DCOne-Crypto-Pool/main/extended-metadata.json"
 }
