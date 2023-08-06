@@ -1,4 +1,7 @@
-# DCOne-Crypto-Pool
+<h1 align="center">
+<img src="image/dconecrypto-medium.png" width="200px">
+<p>ISPO</p>
+</h1>
 
 **UPDATE: August 1, 2023**
 
