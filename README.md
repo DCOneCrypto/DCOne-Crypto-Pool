@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="image/dconecrypto-medium.png" width="200px">
-<p>ISPO</p>
+<p>DCOne Crypto Pool</p>
 </h1>
 
 **UPDATE: August 1, 2023**
