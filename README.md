@@ -26,3 +26,5 @@ _If you stake with us you are eligble for rewards. Minimum requirements are to h
 _Minimum requirements are to have at least 500₳ in delegation and to stake more than one full epoch. Currently we have the following rewards:_
 
 - EARN 30 $WRT tokens
+
+<img src="image/EveryEpoch-HighStakers-FirstPeople-2023-08-01.png" width="100%">
