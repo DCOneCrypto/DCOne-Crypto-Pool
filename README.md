@@ -9,7 +9,12 @@
 - Ticker: DCONE
 - Margin: 0%
 - Fixed Cost: 340.0₳
-- Link: ["https://cexplorer.io/pool/pool1xvaagsvl9prlr20hvg2qv434yss5c88r2ml6n43wcpepxmw85lj","https://cardanoscan.io/pool/333bd4419f2847f1a9f7621406563524214c1ce356ffa9d62ec07213?tab=epochhistory"]
+
+## Link
+
+- [cexplorer](https://cexplorer.io/pool/pool1xvaagsvl9prlr20hvg2qv434yss5c88r2ml6n43wcpepxmw85lj)
+- [cardanoscan](https://cardanoscan.io/pool/333bd4419f2847f1a9f7621406563524214c1ce356ffa9d62ec07213?tab=epochhistory)
+- [rewards](https://dconecrypto.finance/rewards-snapshot.html)
 
 ## Rewards check
 
