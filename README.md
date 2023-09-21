@@ -14,13 +14,40 @@
 
 - [cexplorer](https://cexplorer.io/pool/pool1xvaagsvl9prlr20hvg2qv434yss5c88r2ml6n43wcpepxmw85lj)
 - [cardanoscan](https://cardanoscan.io/pool/333bd4419f2847f1a9f7621406563524214c1ce356ffa9d62ec07213?tab=epochhistory)
-- [rewards](https://dconecrypto.finance/rewards-snapshot.html)
+- [rewards](https://dconecrypto.finance/rewards-pool-dashboard.html)
 
 ## Rewards check
 
 ```bash
-  https://dconecrypto.finance/rewards-snapshot.html
+  https://dconecrypto.finance/rewards-pool-dashboard.html
 ```
+
+**UPDATE: Epoch #438**
+
+#### EVERY EPOCH
+
+- HOSKY, SNEK, SUNDAE, MIN, NTX, WRT
+- WMT, AGIX, GEN, LENFI, LQ, INDY
+
+#### TOP DELEGATORS EPOCH
+
+- 1st PRIZE (60₳)
+- 2nd PRIZE (30₳)
+- 3rd PRIZE (10₳)
+
+#### GIVEAWAY
+
+- 50₳ is accumulated per OUR PARTNERS pool after each epoch
+- Formula reward distribution: CURRENT PRIZE POOL X TOTAL NUMBER OF EPOCH YOU IN POOL/(EPOCH WINNER - EPOCH START)
+
+#### HIGH STAKERS
+
+- EARN EXTRA 300₳
+- We have 2 slots for high stakers
+
+## Image
+
+![App Screenshot](image/EVERYEPOCH-TOPDELEGATORSEPOCH-GIVEAWAY-HIGHSTAKERS.png)
 
 **UPDATE: August 1, 2023**
 
