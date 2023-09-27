@@ -22,7 +22,7 @@
   https://dconecrypto.finance/rewards-pool-dashboard.html
 ```
 
-**UPDATE: Epoch #438**
+**UPDATE: Epoch**
 
 #### EVERY EPOCH
 
