@@ -1,4 +1,3 @@
 [
-  {"pool":"pool1xvaagsvl9prlr20hvg2qv434yss5c88r2ml6n43wcpepxmw85lj","every_epoch":true,"top_delegators_epoch":true,"giveaway":true,"high_stakers":true},
-  {"pool":"pool1y89sy2e927hvvt66wnukx5xnnrarzxrt55eypttaw3n06u0uam4","every_epoch":false,"top_delegators_epoch":false,"giveaway":true,"high_stakers":false}
+  {"pool":"pool1xvaagsvl9prlr20hvg2qv434yss5c88r2ml6n43wcpepxmw85lj"}
 ]
