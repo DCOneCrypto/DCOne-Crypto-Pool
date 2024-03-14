@@ -31,6 +31,10 @@
         },
         "telegram-admin-handle": {
             "0": "dconeservice"
+        },
+        "my-pool-ids": {
+        "0": "pool10sw35nk2mxdk35k64rdg5psutruaaqyhzhwzr77h5t58upuksmc",
+        "1": "7c1d1a4ecad99b68d2daa8da8a061c58f9de809715dc21fbd7a2e87e"
         }
     }
 }
