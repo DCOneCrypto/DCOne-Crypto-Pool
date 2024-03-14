@@ -1,0 +1,36 @@
+{
+    "verification":"ed1bc36aaf73b973e4",
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/DCOneCrypto/DCOne-Crypto-Pool/main/image/dconecrypto-64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/DCOneCrypto/DCOne-Crypto-Pool/main/image/dconecrypto-200x200.png",
+        "location": "Dublin, Ireland",
+        "social": {
+            "twitter_handle": "dconecrypto",
+            "telegram_handle": "dconecrypto",
+            "facebook_handle": "",
+            "youtube_handle": "@dconecrypto",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "DCOneCrypto",
+            "patreon_handle": "",
+            "linkedin_handle": "",
+            "ada_handle": "$dconecrypto"
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "DCOne Pool is a group connecting projects on DCOne Crypto with 0% margin and providing the best possible rewards to the community.",
+            "server": "",
+            "company": ""
+        },
+        "telegram-admin-handle": {
+            "0": "dconeservice"
+        }
+    }
+}
